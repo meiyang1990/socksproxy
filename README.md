@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Brook
 
 [![Build Status](https://travis-ci.org/txthinking/brook.svg?branch=master)](https://travis-ci.org/txthinking/brook) [![Go Report Card](https://goreportcard.com/badge/github.com/txthinking/brook)](https://goreportcard.com/report/github.com/txthinking/brook) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0) [![Wiki](https://img.shields.io/badge/docs-wiki-blue.svg)](https://github.com/txthinking/brook/wiki)
@@ -224,3 +225,7 @@ Please read [CONTRIBUTING.md](https://github.com/txthinking/brook/blob/master/.g
 ## License
 
 Licensed under The GPLv3 License
+=======
+# socksproxy
+socks tcp proxy
+>>>>>>> 464fb8f2d1f15dd4ac22d3714d24b133ef1af294
